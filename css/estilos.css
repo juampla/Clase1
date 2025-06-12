@@ -1,0 +1,15 @@
+body.JUAN PABLO - JUAMPLA {
+
+  background-image: url('cocina.jpg');
+
+}
+
+h1 {color: #ff9c33; }
+h2 {font-size: 25px;  background-color: #33ffd4; font-family: sans-serif;}
+.ingred {color: green;}
+.titulo {color: #61ff33; text-decoration: underline;
+        font-size: 60px;  text-align: center; font-family: cursive;}
+.img {width: 150px; height: 150px;}
+.mundo {color: #C70039; font-family: monospace; display: inline-block;}
+.recetas {text-align: center; font-size: 50px; text-decoration: underline;}
+.lista {font-style: normal;font-size: 20px;}
